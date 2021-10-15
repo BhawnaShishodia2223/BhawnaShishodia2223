@@ -1,0 +1,19 @@
+- 👋 Hi, I’m Bhawna Shishodia. 
+
+- &#x270D;  I am a Youtuber and a Knowledge Distributer.
+
+- 👀 I’m interested in Programming, Debugging, predictions and training models using Machine Learning.
+
+- 🌱 I’m currently learning Data science, ML and AI.
+
+- 💞️ I’m looking to collaborate on Projects include languages like Python, PHP, Javascript, R,etc.
+
+- 📫 How to reach me:<br>
+      &#x279C; Linkedin: www.linkedin.com/in/bhawna-shishodia <br>
+      &#x279C; Instagram: https://www.instagram.com/academy_bit<br>
+      &#x279C; Youtube: https://www.youtube.com/c/bitacademy23
+
+<!---
+BhawnaShishodia2223/BhawnaShishodia2223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
