@@ -1,11 +1,9 @@
 <h1 align='center'> Hi! :wave:</h1>
 <h3 align='center'>I'm Bhawna Shishodia<br>a Web Developer, Youtuber & Knowledge Distributer</h3>
 
-- &#x270D;  I am a Youtuber and a Knowledge Distributer.
-
 - 👀 I’m interested in Programming, Debugging, predictions and training models using Machine Learning.
 
-- 🌱 I’m currently learning Data science, ML and AI.
+- &#x270D; I’m currently learning Data science, ML and AI.
 
 - 💞️ I’m looking to collaborate on Projects include languages like Python, PHP, Javascript, R,etc.
 
