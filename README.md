@@ -1,5 +1,5 @@
 <h1 align='center'> Hi! :wave:</h1>
-<h3 align='center'>I'm Stephen Ajulu<br>a Web Developer, Youtuber & Knowledge Distributer</h3>
+<h3 align='center'>I'm Bhawna Shishodia<br>a Web Developer, Youtuber & Knowledge Distributer</h3>
 
 - &#x270D;  I am a Youtuber and a Knowledge Distributer.
 
