@@ -1,5 +1,5 @@
 <h1 align='center'> Hi! :wave:</h1>
-<h3 align='center'>I'm Bhawna Shishodia<br>Web Developer, Youtuber & Knowledge Distributer</h3>
+<h3 align='center'>I'm Bhawna Shishodia<br>Looking to contribute in data Science and machine Learning Projects<br>Web Developer, Youtuber & Knowledge Distributer</h3>
 
 - 👀 I’m interested in Programming, Debugging, predictions and training models using Machine Learning.
 
