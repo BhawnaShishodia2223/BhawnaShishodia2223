@@ -5,7 +5,7 @@
 
 - &#x270D; I’m currently learning Data science, ML and AI.
 
-- 💞️ I’m looking to collaborate on Projects include languages like Python, PHP, Javascript, R,etc.
+- 💞️ I’m looking to collaborate on Projects include languages like Python, Machine Learning, NLP, etc.
 
 - 📫 How to reach me:<br>
       &#x279C; Linkedin: www.linkedin.com/in/bhawna-shishodia <br>
