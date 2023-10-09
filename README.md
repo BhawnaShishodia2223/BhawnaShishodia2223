@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Programming, Debugging, predictions and training models using Machine Learning.
 
-- &#x270D; I’m currently learning Data science, ML and AI.
+- &#x270D; I’m currently working in NLP (Natural Language Processing) Domain.
 
 - 💞️ I’m looking to collaborate on Projects include languages like Python, Machine Learning, NLP, etc.
 
