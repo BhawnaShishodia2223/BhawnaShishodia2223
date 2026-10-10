@@ -7,11 +7,16 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1F,50:7C3AED,100:00F5D4&height=230&section=header&text=Bhawna%20Shishodia&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Senior%20Consultant%20%E2%80%A2%20Data%20Science%20%7C%20Python%20Backend%20%26%20AI%20Engineer&descSize=18&descAlignY=60" alt="Bhawna Shishodia banner" width="100%"/>
+<img src="assets/banner.svg" alt="Bhawna Shishodia banner" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/BhawnaShishodia2223">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=760&height=50&lines=I+build+APIs+that+think+%26+AI+that+ships%2C+safely.;Python+Backend+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;LLM+Fine-Tuning+%E2%80%A2+RAG+%E2%80%A2+Red-Teaming;Computer+Vision+%E2%80%A2+YOLO+%E2%80%A2+Real-Time+Analytics;Turning+raw+data+into+production-grade+intelligence" alt="Typing animation"/>
+  <picture>
+    <!-- Dark mode: bright teal. Light mode: deeper violet so it stays readable on white. -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=760&height=50&lines=I+build+APIs+that+think+%26+AI+that+ships%2C+safely.;Python+Backend+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;LLM+Fine-Tuning+%E2%80%A2+RAG+%E2%80%A2+Red-Teaming;Computer+Vision+%E2%80%A2+YOLO+%E2%80%A2+Real-Time+Analytics;Turning+raw+data+into+production-grade+intelligence">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&width=760&height=50&lines=I+build+APIs+that+think+%26+AI+that+ships%2C+safely.;Python+Backend+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;LLM+Fine-Tuning+%E2%80%A2+RAG+%E2%80%A2+Red-Teaming;Computer+Vision+%E2%80%A2+YOLO+%E2%80%A2+Real-Time+Analytics;Turning+raw+data+into+production-grade+intelligence">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&width=760&height=50&lines=I+build+APIs+that+think+%26+AI+that+ships%2C+safely.;Python+Backend+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;LLM+Fine-Tuning+%E2%80%A2+RAG+%E2%80%A2+Red-Teaming;Computer+Vision+%E2%80%A2+YOLO+%E2%80%A2+Real-Time+Analytics;Turning+raw+data+into+production-grade+intelligence" alt="Typing animation"/>
+  </picture>
 </a>
 
 <br/>
@@ -20,7 +25,6 @@
 <a href="https://linkedin.com/in/bhawna-shishodia/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hello-00F5D4?style=for-the-badge&logo=gmail&logoColor=0A0F1F" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=BhawnaShishodia2223&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -202,6 +206,6 @@ I'm open to conversations about **backend engineering, enterprise LLM systems, A
 
 <sub>⭐ If something here helped you, a star on my repos is always appreciated.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7C3AED,100:0A0F1F&height=120&section=footer" alt="Footer wave" width="100%"/>
+<img src="assets/footer.svg" alt="Footer wave" width="100%"/>
 
 </div>
